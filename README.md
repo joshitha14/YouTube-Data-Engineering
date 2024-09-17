@@ -1,7 +1,7 @@
 # YouTube-Data-Engineering
 YouTube Data Engineering Project using AWS S3,Glue,Athena and Quicksight
 ## Overview
-This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics and to visalize the data using AWS QUICKSIGHT
+This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics and to visualize the data using AWS QUICKSIGHT
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
